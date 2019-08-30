@@ -1,0 +1,6 @@
+framework module DryLocation_iOS {
+  umbrella header "DryLocation-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

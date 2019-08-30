@@ -1,0 +1,16 @@
+PODS:
+  - DryLocation-iOS (0.1.0)
+
+DEPENDENCIES:
+  - DryLocation-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  DryLocation-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DryLocation-iOS: 655a7be65e7e5932c73c213c5a72c1f23f031331
+
+PODFILE CHECKSUM: c1d1a2649924bd6a846e05195b24c1a2d7c1f6eb
+
+COCOAPODS: 1.8.0.beta.2
